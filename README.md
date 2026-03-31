@@ -20,3 +20,6 @@ This project is a small demo built with **Laravel 12.27.1**.
 # database/migrations/
 # database/database.sqlite
 # routes/api.php
+
+# Explaination
+https://educated-mine-3c7.notion.site/UWow-26a6ca9baec1800885afc37b9769fe19
